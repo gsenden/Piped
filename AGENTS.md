@@ -1,0 +1,1 @@
+../ai-werkwijze/AGENTS.md
